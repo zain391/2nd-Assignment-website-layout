@@ -10,3 +10,13 @@
     justify-content: space-between;  
     height: 370px;  
 }
+#left-cont{
+    border: 10px solid white;
+    width: 200px;  
+    text-align: center;
+}
+#right-cont{
+    border: 10px solid white;
+    width: 200px;
+    text-align: center;
+}
