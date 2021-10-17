@@ -1,0 +1,6 @@
+#center{
+    background-color: rgb(202, 194, 194);
+    display: flex;
+    justify-content: space-between;  
+    height: 370px;  
+}
